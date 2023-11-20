@@ -1,4 +1,4 @@
-[Core Synthetic Data Platform Site](https://dev.azure.com/SyntheticDataPlatform/_git/SyntheticDataPlatform-Intro/README.md)
+[Core Synthetic Data Platform Site](https://github.com/SyntheticDataPlatform/.github/blob/main/profile/README.md)
 
 # Quarkus APIs
 This is a Quarkus application (https://quarkus.io/). It can easily be run by the following 2 ways:
